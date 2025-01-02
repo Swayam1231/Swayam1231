@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swayam Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
 - 🌱 I’m currently learning **React js**
 
 <h3 align="left">Languages and Tools:</h3>
